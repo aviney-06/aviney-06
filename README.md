@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aviney-06
 - 👀 I’m interested in Development and Designing.
 - 🌱 I’m currently learning for opportunities to 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at <a href="linkedin.com/in/avinash-dubey-45a6211b6">
+- 📫 Reach me at <a href="linkedin.com/in/avinash-dubey-45a6211b6">LinkedIn</a>
 - 😄 Pronouns: Him
 
 <!---
