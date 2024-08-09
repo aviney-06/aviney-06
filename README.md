@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aviney-06
 - 👀 I’m interested in DSA, Development and Designing.
-- 🌱 I’m currently learning Fullstack App and Web Development.
+- 🌱 MERN Stack Developer @ Yuvamanthan.org.
 - 📫 Reach me at <a href="https://www.linkedin.com/in/avinash-dubey-45a6211b6">LinkedIn</a>
 - 😄 Pronouns: Him
 
